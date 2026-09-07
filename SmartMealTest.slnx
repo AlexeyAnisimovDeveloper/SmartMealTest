@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Readme/">
+    <File Path="Readme.txt" />
+  </Folder>
+  <Project Path="SmartMealMockServer.Grpc/SmartMealMockServer.Grpc.csproj" Id="2ef64d17-fe82-493c-b39d-ec43e7e71b5b" />
+  <Project Path="SmartMealMockServer.Http/SmartMealMockServer.Http.csproj" Id="9891aae2-7a7e-4902-b697-6d87ef0e7c1e" />
+  <Project Path="SmartMealOrder.Core/SmartMealOrder.Core.csproj" Id="4772d421-88a0-46f6-8c98-0ffb384ed5f0" />
+  <Project Path="SmartMealOrder.Grpc/SmartMealOrder.Grpc.csproj" Id="9a746fa4-8d31-4c4e-b957-6753edf3ae02" />
+  <Project Path="SmartMealOrder.Http/SmartMealOrder.Http.csproj" Id="c2f4f809-a13e-4a7d-bf11-5b12d7fbd001" />
+  <Project Path="SmartMealOrderConsoleApp/SmartMealOrderConsoleApp.csproj" Id="85190f19-7556-45ff-82f1-94869d1f2b75" />
+  <Project Path="SmartMealWpfApp/SmartMealWpfApp.csproj" />
+</Solution>
